@@ -1,0 +1,15 @@
+/home/brad1996/Csharp-course/inheritance-challenge/bin/Debug/net7.0/inheritance-challenge
+/home/brad1996/Csharp-course/inheritance-challenge/bin/Debug/net7.0/inheritance-challenge.deps.json
+/home/brad1996/Csharp-course/inheritance-challenge/bin/Debug/net7.0/inheritance-challenge.runtimeconfig.json
+/home/brad1996/Csharp-course/inheritance-challenge/bin/Debug/net7.0/inheritance-challenge.dll
+/home/brad1996/Csharp-course/inheritance-challenge/bin/Debug/net7.0/inheritance-challenge.pdb
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/inheritance-challenge.csproj.AssemblyReference.cache
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/inheritance-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/inheritance-challenge.AssemblyInfoInputs.cache
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/inheritance-challenge.AssemblyInfo.cs
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/inheritance-challenge.csproj.CoreCompileInputs.cache
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/inheritance-challenge.dll
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/refint/inheritance-challenge.dll
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/inheritance-challenge.pdb
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/inheritance-challenge.genruntimeconfig.cache
+/home/brad1996/Csharp-course/inheritance-challenge/obj/Debug/net7.0/ref/inheritance-challenge.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "inheritance-challenge/1.0.0": {
+        "runtime": {
+          "inheritance-challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inheritance-challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
